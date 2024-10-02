@@ -155,7 +155,7 @@ label {
 .header_left ul li span {
   margin-right: 10px;
   top: 0px;
-  border: 1.5px solid #ee9afd;
+  border: 1.5px solid #4697e0;
   padding: 9px 9px;
   border-top-left-radius: 9px;
   border-bottom-right-radius: 9px;
@@ -172,7 +172,7 @@ label {
   width: 32px;
   height: 32px;
   display: inline-block;
-  border: 1.5px solid #ee9afd;
+  border: 1.5px solid #4697e0;
   border-top-left-radius: 9px;
   border-bottom-right-radius: 9px;
 }
